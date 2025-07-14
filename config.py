@@ -1,0 +1,7 @@
+SPEECH_KEY = "8g1T3ZqxGtjLPdPSf3Pajhep1QhIIOW9Pw7eC5YvfxPZJhjKaLS3JQQJ99BGACi0881XJ3w3AAAYACOGASnV"
+SPEECH_REGION = "japaneast"
+
+AZURE_OPENAI_KEY = "7ZrotPARrGPwMnXJtDvjyZIxh3NByi2pIc6la7WXL4cQQIo94RqWJQQJ99BGACi0881XJ3w3AAAAACOGNnDs"
+AZURE_OPENAI_ENDPOINT = "https://project52929620-resource.services.ai.azure.com/"
+AZURE_OPENAI_DEPLOYMENT = "Phi-4-multimodal-instruct"  # Your phi-4-multimodal deployment name
+AZURE_OPENAI_API_VERSION = "2024-02-15-preview"
