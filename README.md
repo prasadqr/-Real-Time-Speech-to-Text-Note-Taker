@@ -1,4 +1,4 @@
-# -Real-Time-Speech-to-Text-Note-Taker
+Real-Time-Speech-to-Text-Note-Taker
 
 This is a simple and efficient Streamlit application that captures audio in real-time from your microphone and transcribes it to text using Azure Cognitive Services (Speech-to-Text API).
 
