@@ -21,3 +21,9 @@ This is a simple and efficient Streamlit application that captures audio in real
 ├── config.py # Azure credentials
 ├── requirements.txt # Python package requirements
 └── README.md # Project documentation
+
+# Requirements
+Python 3.8 or above
+Azure subscription with a Speech resource
+Microphone device
+Internet access
